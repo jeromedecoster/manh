@@ -1,0 +1,1 @@
+alias mh='manh'
